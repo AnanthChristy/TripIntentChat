@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.0_94091aa39e99f36e57998416b189efd91e5a6308/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.0_a4ef6589445b9792486ad2e58a8aebf187f5a99b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a00f1d62fe81975297e1e336af6e389e40c8f2d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.0_d2584dd9f6ab6ddf2ae2b3064c334892d64d60dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.0_c58d14f443400c33482ee677ea7307ec34297104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1c926efda90fbf653889fea922eacc527de8486">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.0_31bfe668fbbe127ad3132f69ad16339ff2ce4cb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.0_60a043cdf75d27a7846ef32fce9152b58f3177f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_382bcafd1c21a94d541e6092bb7adb7d5587a358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.0_91fff32236f9dfb3d67bd739f1535e114b8b86b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.0_7d065d64f80747114fb8de19bf79a34fd721103c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.0_44654cf56120f21f645e37c593ed18e90a4a1b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.0_cc3cf62ea3ac7bf7e1a6244eda66882dde406826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.0_9e129fb639674f8f2d79c4adf243ae4586c159f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.0_884aa8829683d2b2367bcbb7dc174b0e41760aac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.0_d3ae263da318c301fc5790b3cd066fcf08a67688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_2d34fcbf327a743713136355e5686702a16607f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.0_b780a55ea675830568438cbd304273887c95e702/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_06659d3aedce08098cef67a5c7c78c71d7021d10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.0_7244f4caaf235e22f34a326b52aec47e467ac26d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.0_97acf1db10a0a40b6428c6944760a368706cbbd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_126d52eb77ba37bcec56b6cbd18d41e43133b0ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_d4934ab13c0270dc02efad985129bcb9fee6f19b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.0_fb5076aa850b7a178c3cd397181e5a82feeaac39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.0_de67b3b58dab95a2d9f098accfa8e5cb2a0a5d7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_a9c2e9ad5992cb5fd1a9709d647f29cd0c3862ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_e8ef81ab90fe83fb4d36a2035286b5ed343ffd6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_c0e7106e6b7f29b49d58220ae06b30f9852db1b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.0_f0b6693b8fc82b1c9c3285fb74ade08446e09f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_6ebb600e42cf37f2f992ed29659e5382cedaf539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_24edda4f764093a552d92acda71dfdd4b421fc8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.0_65d7204788e29208aacacf7932d13afb82a6e0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65ee27de34c80d2b6cf148d5c4d126817a583f0c">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_53e2670a8d7739192ba8d164a7268bc760cf49a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1ae645ba2827067411f96e646bf12123ae3c4431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_b1e0d53829dac8e48e366fb177cfc175b88cb7e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.0_cb59412cd05a600987a7d8d17919b130e52a766f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.0_624b905bac43977ce8a8b7f3dbcb7dc1e8c66bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.0_2835d48fa348879cb2ba4e15d0616742fdce899c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.0_26746724f2f6f6818e24b795ee6645143e55f322/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f225430f938ec8c10d94c83b0c4a2a1c81310556">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6fb66fb2ede89c87f9efb2369493c9fd46e4d44e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.0_f1c5e49255a6ae35583bd78e82c58541f44013ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.0_30ee4f92426f30f5effaa5132f721ebe3dd784a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.0_bf44a912c98025bf890a960a67a3d2ee9f7cc9e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.0_f9ab95f0bd8e02d7ffea640fb5f7a0a52d3f12e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.0_5f2c76da3e801fb9dfc14a96f23dd35e81ddd692/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c01396847c98772a9d140163ac4ba7308f2916cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.0_c3e8016f63fc81a0113adeaac584840f7cff5284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.0_15d5b0b7e50df8220aa9516923d79a0b5cffb55a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.0_ad150ce3f828302c75c7f996d0c46c8d6eac2004/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_7d6643706668d6c5277147106cf2ab98e62d01ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.0_d67075d0e0e8975bc59d7c72e7b302a20eebf7ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_be242f0988a3ee5af08a732bb8b1a39237f86650/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.0_52811583818f0e5cafe62bd57158921d6479bf6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.0_d15a38b809844d6b1f67c56de139113a97f56285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.0_3fd46c2ef5ca0d5ba7797c9827514ecf22f4642c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.0_9399068ea2abe7f65113a23031817db4d208d0ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.0_fd7f23392df70ffd517d49468f9e86d62653a57b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_af0dc42b130ae9336a00dc18de85dbb457b0a2ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.theartofdev.edmodo-android-image-cropper-2.3.1_4966789c6d5482caf4e8d82376980992776a2063/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_335cc91cdf15c889b4ae9b54c6c400e521bc4ef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.0_288cf3a169ef0f5c1023dcd9bebcfbed7d3764fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_3b10c5127f57d6372285df821de7e5891acb8a50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_e85b5cf9e795456ea750f06f2fc4ac61bf6ebd71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_e4937a3cb02ebd5f16b79e02707a85cecca3c1a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_055f19d47fd6f67141f1a1e675e0a235a580384b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.0_b5bde9c7c0b6e294b88daaa48de08d6d4f5b57e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.0_7b5241c68d6e6df39010b15417524269b3aa1f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0b0f4f99cf68e748dd123ad553738e4284d4749">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-1.0.1_d300d5f3434f8622bc1d223a902cfcd1150480a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_9eef16bb403f7fc6b39cf2ab88a2cda2404c8321/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_66c7929401e4561dd273cef808c4533f3fd3fa0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.0_5e9b45a951cbb636e3d60e9b42317bd8ea161871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.0_dd7d13991ccc8e593193600a301cdc475878c921/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.0_f8cbe357fabc23728c24511367289b7c611dd9d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.0_bdd37f81768778d7d11742ae97ce0bb1ec40df3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.0_4c134dca664ca07c6cb7642ed2cc407d6e13aa6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.0_3d797e261f5cf47f2f4c1ce420a56e34625bb8b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_b1a56cfab9f67160d7361a6b30a2d7282eded575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/ananthchristy/Downloads/TripIntentChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_daefa6bda14d9661c379dcf186bed30db05910c5/classes.dex" />
+    </item>
+
+</items>

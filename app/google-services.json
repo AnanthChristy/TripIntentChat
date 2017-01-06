@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "222862609064",
+    "firebase_url": "https://tripintentchat-50057.firebaseio.com",
+    "project_id": "tripintentchat-50057",
+    "storage_bucket": "tripintentchat-50057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222862609064:android:a6a35b925e1f6623",
+        "android_client_info": {
+          "package_name": "com.ananthchristy.tripintentchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222862609064-ihgp0ijrkrlf6gordnanhh4cpl34bc49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaj3R_46nSKWoPTJ7pKQe9hURlybxTV5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
